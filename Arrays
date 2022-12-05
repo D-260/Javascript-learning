@@ -1,5 +1,0 @@
-//Write a function toUpper that takes 1 parameter, an array of strings, and console.logs a new array with all the strings capitalized. Good question.
-//Intuition : create a function
-  create an array
-  create a function and apply foreach and then push elemenets
-  apply uppercase str fun
