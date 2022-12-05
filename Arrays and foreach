@@ -7,7 +7,7 @@
 
 //Write a function arraySum that takes an array of numbers and console.logs the sum of the numbers. 
 
- Intuition: Same as before so adding more details and patterns now
+ Intuition and patterns: Same as before so adding more details and patterns now
 
 'function' name(parameters) //remember parameters and args like name(para) at start and name(args) at end of function
  add a counter variable
