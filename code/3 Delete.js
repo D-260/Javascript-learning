@@ -2,7 +2,9 @@ const todos = [{
         title: 'Get groceries',
         dueDate: '2021-10-04', // object values are separated by comma.
         id: 'id1' // id is provided so as to identify div to be deleted.
+        // Add the two other default todos as well
       },
+render(); // To put/render the default todos on screen
                
  function addTodo() {
         const textbox = document.getElementById('todo-title'); 
